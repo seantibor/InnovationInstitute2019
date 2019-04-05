@@ -1,9 +1,9 @@
-autoscale: true
+autoscale: false
 slidenumbers: true
 footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
-# AI and Emerging Technologies
-## Sean Tibor and Pedro Uribe
+## AI and Emerging Technologies in the Middle School
+### Sean Tibor and Pedro Uribe
 
 ![](photos/sasha_samantha_robots.jpg)
 
@@ -16,13 +16,19 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 * 6th & 8th Grade Computer Science Teacher
 * 1st Year Teaching
 * Transfer from IT and Digital Marketing Career
-* Host of Teaching Python Podcast
+* Co-host of [Teaching Python Podcast](https://www.teachingpython.fm)
+
+[@smtibor](https://twitter.com/smtibor)
 
 ![right](photos/sean_tibor.jpg)
 
 ---
 
 # Pedro Uribe
+
+---
+
+# History of AI
 
 ---
 
@@ -61,11 +67,24 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 2. Cognitive capabilities are sufficient for advanced topics
 3. Foundational knowledge may not be established
 
+![right](photos/megan_robot.jpg)
+
 ---
 
-## Artificial Intelligence Explosions
+# Teaching AI
 
+---
 
+# Resources
+
+---
+
+# Activities
+## Gaming
+
+---
+
+# Cross-Disciplinary AI Collaboration
 
 ---
 
