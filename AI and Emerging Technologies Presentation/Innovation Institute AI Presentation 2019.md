@@ -2,6 +2,7 @@ autoscale: false
 slidenumbers: true
 footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
+
 ## AI and Emerging Technologies in the Middle School
 ### Sean Tibor and Pedro Uribe
 
@@ -30,6 +31,10 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # History of AI
 
+AI is not a new idea. The first AI research happened back in the early 20th century with neural networks
+
+Recent advances in computing power and neural network designs have lead to an explosion of interest in machine learning and deep learning
+
 ---
 
 # [fit] The World in +5 Years
@@ -37,6 +42,18 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 ![](photos/tesla.jpeg)
 
 [.background-color: #000000]
+
+---
+
+# AI, Machine Learning, and Deep Learning?
+
+---
+
+![fit](https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png)
+
+[.hide-footer]
+[.background-color: #FFFFFF]
+[.slidenumber-style: #004712, alignment(right)]
 
 ---
 
