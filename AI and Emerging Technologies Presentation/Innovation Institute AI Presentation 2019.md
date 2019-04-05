@@ -92,9 +92,9 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # Cheaper, Better VR
 
-* [Oculus Go](https://www.oculus.com/go/?local=en_US)
-* [Oculus Quest](https://www.oculus.com/quest/?locale=en_US)
-* [HTC Focus](https://enterprise.vive.com/ca/focus-plus/)
+- [Oculus Rift S](https://www.oculus.com/rift-s/?local=en_US)
+- [Oculus Quest](https://www.oculus.com/quest/?locale=en_US)
+- [HTC Focus](https://enterprise.vive.com/ca/focus-plus/)
 
 ![left](photos/alyssa_vr.jpg)
 
@@ -106,9 +106,9 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # More Capable AR
 
-* [Apple ARKit 2](https://www.apple.com/ios/augmented-reality/)
-* [Magic Leap](https://www.magicleap.com/magic-leap-one)
-* [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens/buy)
+- [Apple ARKit 2](https://www.apple.com/ios/augmented-reality/)
+- [Magic Leap](https://www.magicleap.com/magic-leap-one)
+- [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens/buy)
 
 ![right](photos/magicleap2.png)
 
@@ -155,15 +155,6 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
-## Virtual Reality Tools
-
-* HTC Vive Pro
-* Oculus Rift
-* Google Expeditions
-* 
-
----
-
 ## Robotics
 
 ![](photos/cozmo_students.jpg)
@@ -178,10 +169,15 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ## Middle School Robots
 
-* Cozmo
-* Vector
-* Cue
+- Cozmo
+- Vector
+- Cue
 
+## Virtual Reality Tools
+
+- HTC Vive Pro
+- Oculus Rift
+- Google Expeditions
 
 ---
 
