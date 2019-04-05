@@ -76,11 +76,19 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # More Robotics
 
-* Manufacturing
-* Healthcare
-* Consumer
+- Manufacturing
+- Healthcare
+- Consumer
+
+52% of adult internet users believe that robots will perform most human activites in 30 years. ([Brookings Institute](https://www.brookings.edu/blog/techtank/2018/06/21/brookings-survey-finds-52-percent-believe-robots-will-perform-most-human-activities-in-30-years/))
 
 ![right](photos/cozmo_robots.jpg)
+
+^Boston Dynamics recently showed warehouse robots that could efficiently reach, stack, and organize boxes weighing up to 33 pounds.
+
+^Teleoperated robotic surgery combines VR/AR displays with remotely operated surgery tools
+
+
 
 ---
 
