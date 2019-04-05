@@ -144,8 +144,26 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # Tools
 
-- AI Robots
-- Web-based Examples
+---
+
+## AI Robots
+
+- Vector by Anki (Recommended)
+- Cozmo by Anki (Recommended)
+- Cue by Wonder Workshop
+
+![](photos/cozmo_students.jpg)
+
+---
+
+## Web-based Examples
+
+- Quick Draw
+- Google CoLab
+- Google Image Classification
+- TensorFlow Playground
+
+![right](photos/quickdraw_data.png)
 
 ---
 
@@ -162,6 +180,12 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 ---
 
 ## Gaming
+
+Middle school students love games.
+
+- 20 Questions vs. AI
+- Blackjack Opponent
+- Gun, Gun, Shoot (seeking alternative format)
 
 ---
 
@@ -182,7 +206,7 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ## Robotics
 
-![](photos/cozmo_students.jpg)
+
 
 ---
 
