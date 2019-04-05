@@ -144,6 +144,8 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # Tools
 
+![](photos/joseph_pitop.jpg)
+
 ---
 
 ## AI Robots
