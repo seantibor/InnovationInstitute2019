@@ -31,9 +31,15 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # History of AI
 
-AI is not a new idea. The first AI research happened back in the early 20th century with neural networks
+![](https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2018%2F06%2Farthur-samuel_checkers_ibm-7090_c1962_horizontal-e1529684853944.jpeg&w=2200&q=70)
 
-Recent advances in computing power and neural network designs have lead to an explosion of interest in machine learning and deep learning
+^Albert Samuel plays checkers against an IBM 701
+
+^AI is not a new idea. The first AI research happened back in the early 20th century with neural networks
+
+^Recent advances in computing power and neural network designs have lead to an explosion of interest in machine learning and deep learning
+
+[.background-color: #000000]
 
 ---
 
@@ -80,11 +86,15 @@ Recent advances in computing power and neural network designs have lead to an ex
 
 # Cheaper, Better VR
 
+* [Oculus Go](https://www.oculus.com/go/?local=en_US)
 * [Oculus Quest](https://www.oculus.com/quest/?locale=en_US)
 * [HTC Focus](https://enterprise.vive.com/ca/focus-plus/)
-* [Oculus Go](https://www.oculus.com/go/?local=en_US)
 
 ![left](photos/alyssa_vr.jpg)
+
+^New VR hardware is cheaper, more capable, more comfortable, and wireless.
+
+^Pine Crest uses VR to explore the human body with The Body VR and the world with Google Earth
 
 ---
 
