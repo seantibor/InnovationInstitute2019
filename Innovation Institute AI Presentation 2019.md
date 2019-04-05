@@ -61,6 +61,22 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
+# Cheaper, Better VR
+
+* [Oculus Quest](https://www.oculus.com/quest/?locale=en_US)
+* [HTC Focus](https://enterprise.vive.com/ca/focus-plus/)
+* [Oculus Go](https://www.oculus.com/go/?local=en_US)
+
+# More Capable AR
+
+* [Apple ARKit 2](https://www.apple.com/ios/augmented-reality/)
+* [Magic Leap](https://www.magicleap.com/magic-leap-one)
+* [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens/buy)
+
+![left](photos/alyssa_vr.jpg)
+
+---
+
 # Middle School Considerations
 
 1. Students are developing rapidly
