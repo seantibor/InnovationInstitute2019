@@ -41,30 +41,54 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 * Deep Learning
 * Computer Vision
 
-![](photos/jupyter_data_organisms.JPG)
+![right](photos/annotate.jpg)
 
 ---
 
 # More Robotics
+
 * Manufacturing
 * Healthcare
+* Consumer
 
 ![right](photos/cozmo_robots.jpg)
 
 ---
 
-## Artificial Intelligence Explosions
+# Middle School Considerations
+
+1. Students are developing rapidly
+2. Cognitive capabilities are sufficient for advanced topics
+3. Foundational knowledge may not be established
 
 ---
 
-## AR & VR
+## Artificial Intelligence Explosions
+
+
+
+---
+
+## Virtual Reality Tools
+
+* HTC Vive Pro
+* Oculus Rift
+* Google Expeditions
+* 
 
 ---
 
 ## Robotics
+
 ![](photos/cozmo_students.jpg)
 
 ---
+
+# Middle School Robots
+
+* Cozmo
+* Vector
+* Cue
 
 ## Q&A
 
