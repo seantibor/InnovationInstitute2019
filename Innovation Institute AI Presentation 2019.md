@@ -12,15 +12,29 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ### Sean Tibor
 * 6th & 8th Grade Computer Science Teacher
-* 1st year teaching
+* 1st Year Teaching
+* Transfer from IT and Digital Marketing Career
+* Host of Teaching Python Podcast
 
 ### Pedro Uribe
 
 ---
 
-## The World in +5 Years
+## [fit] The World in +5 Years
 
-### 
+---
+
+### More AI
+* Self Driving Cars
+* Predictive Analytics
+* Deep Learning
+* Computer Vision
+
+---
+
+### More Robotics
+* Manufacturing
+* Healthcare
 
 ---
 
@@ -33,6 +47,7 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 ---
 
 ## Robotics
+![](photos/cozmo_students.jpg)
 
 ---
 
