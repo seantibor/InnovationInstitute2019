@@ -18,6 +18,8 @@ footer: AI and Emerging Technologies, Pine Crest Innovation Institute 2019
 
 ## The World in +5 Years
 
+### 
+
 ---
 
 ## Artificial Intelligence Explosions
@@ -32,3 +34,8 @@ footer: AI and Emerging Technologies, Pine Crest Innovation Institute 2019
 
 ---
 
+## Q&A
+
+---
+
+## Thank You
