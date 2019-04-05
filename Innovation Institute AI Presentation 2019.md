@@ -1,6 +1,6 @@
 autoscale: true
 slidenumbers: true
-footer: AI and Emerging Technologies, Pine Crest Innovation Institute 2019
+footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # AI and Emerging Technologies
 ## Sean Tibor and Pedro Uribe
@@ -11,6 +11,8 @@ footer: AI and Emerging Technologies, Pine Crest Innovation Institute 2019
 ## Who We Are
 
 ### Sean Tibor
+* 6th & 8th Grade Computer Science Teacher
+* 1st year teaching
 
 ### Pedro Uribe
 
