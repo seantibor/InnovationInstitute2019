@@ -8,15 +8,18 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
-## Who We Are
+# Sean Tibor
 
-### Sean Tibor
 * 6th & 8th Grade Computer Science Teacher
 * 1st Year Teaching
 * Transfer from IT and Digital Marketing Career
 * Host of Teaching Python Podcast
 
-### Pedro Uribe
+![right](photos/sean_tibor.jpg)
+
+---
+
+# Pedro Uribe
 
 ---
 
