@@ -67,13 +67,17 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 * [HTC Focus](https://enterprise.vive.com/ca/focus-plus/)
 * [Oculus Go](https://www.oculus.com/go/?local=en_US)
 
+![left](photos/alyssa_vr.jpg)
+
+---
+
 # More Capable AR
 
 * [Apple ARKit 2](https://www.apple.com/ios/augmented-reality/)
 * [Magic Leap](https://www.magicleap.com/magic-leap-one)
 * [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens/buy)
 
-![left](photos/alyssa_vr.jpg)
+![right](photos/magicleap2.png)
 
 ---
 
@@ -96,7 +100,10 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 ---
 
 # Activities
-## Gaming
+
+---
+
+# Gaming
 
 ---
 
@@ -119,13 +126,18 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
-# Middle School Robots
+## Q&A
+
+---
+
+# Other Resources
+
+## Middle School Robots
 
 * Cozmo
 * Vector
 * Cue
 
-## Q&A
 
 ---
 
