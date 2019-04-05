@@ -144,9 +144,20 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # Tools
 
+- AI Robots
+- Web-based Examples
+
 ---
 
 # Activities
+
+- Train Google Quick Draw
+- Learn about Tensor Networks
+- Make GAN Art
+- Write a Chat Bot
+- Create an Alexa Skill
+
+![right](photos/class artwork.jpg)
 
 ---
 
