@@ -4,7 +4,10 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # AI and Emerging Technologies
 ## Sean Tibor and Pedro Uribe
-### Pine Crest Innovation Institute 2019
+
+![](photos/sasha_samantha_robots.jpg)
+
+[.background-color: #000000]
 
 ---
 
@@ -25,13 +28,20 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # [fit] The World in +5 Years
 
+![](photos/tesla.jpeg)
+
+[.background-color: #000000]
+
 ---
 
 # More AI
+
 * Self Driving Cars
 * Predictive Analytics
 * Deep Learning
 * Computer Vision
+
+![](photos/jupyter_data_organisms.JPG)
 
 ---
 
