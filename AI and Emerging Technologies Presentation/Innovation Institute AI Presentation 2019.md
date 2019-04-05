@@ -88,8 +88,6 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ^Teleoperated robotic surgery combines VR/AR displays with remotely operated surgery tools
 
-
-
 ---
 
 # Cheaper, Better VR
@@ -130,7 +128,7 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
-# Resources
+# Tools
 
 ---
 
@@ -138,7 +136,18 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
-# Gaming
+## Gaming
+
+---
+
+# Resources
+
+- [Google Quick Draw](https://quickdraw.withgoogle.com/)
+- [Tensor Playground](https://playground.tensorflow.org)
+- [Google CoLab AI Notebook](https://colab.research.google.com/drive/1uL7_woGrK7GviAlJkvB5IPu8P2Dwo2_L)
+- [Image Kernels Explained Visually](http://setosa.io/ev/image-kernels/)
+- [GAN Paint](http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4)
+- [Cool Applications of GAN](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900_)
 
 ---
 
