@@ -72,8 +72,20 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ![right](photos/annotate.jpg)
 
+^ Will today's kindergarten students learn to drive in 2030?
+
+^How will our students compete with AI job candidates?
+
+^ Will there be any profession without AI enhancement tools?
+
 ---
 
+## AI Compute Increased 300,000x in Six Years
+
+![inline](photos/ai_compute.png)
+
+[.hide-footer]
+---
 # More Robotics
 
 - Manufacturing
