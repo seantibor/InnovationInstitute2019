@@ -20,11 +20,11 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
-## [fit] The World in +5 Years
+# [fit] The World in +5 Years
 
 ---
 
-### More AI
+# More AI
 * Self Driving Cars
 * Predictive Analytics
 * Deep Learning
@@ -32,9 +32,11 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
-### More Robotics
+# More Robotics
 * Manufacturing
 * Healthcare
+
+![right](photos/cozmo_robots.jpg)
 
 ---
 
