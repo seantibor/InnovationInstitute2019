@@ -43,14 +43,6 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
-# [fit] The World in +5 Years
-
-![](photos/tesla.jpeg)
-
-[.background-color: #000000]
-
----
-
 # AI, Machine Learning, and Deep Learning?
 
 ---
@@ -60,6 +52,14 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 [.hide-footer]
 [.background-color: #FFFFFF]
 [.slidenumber-style: #004712, alignment(right)]
+
+---
+
+# [fit] The World in +5 Years
+
+![](photos/tesla.jpeg)
+
+[.background-color: #000000]
 
 ---
 
@@ -85,7 +85,9 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 ![inline](photos/ai_compute.png)
 
 [.hide-footer]
+
 ---
+
 # More Robotics
 
 - Manufacturing
@@ -126,6 +128,10 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
+# Teaching AI
+
+---
+
 # Middle School Considerations
 
 1. Students are developing rapidly
@@ -133,10 +139,6 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 3. Foundational knowledge may not be established
 
 ![right](photos/megan_robot.jpg)
-
----
-
-# Teaching AI
 
 ---
 
