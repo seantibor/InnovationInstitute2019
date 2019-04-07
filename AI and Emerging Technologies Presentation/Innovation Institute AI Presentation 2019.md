@@ -82,10 +82,16 @@ list: bullet-character(•)
 # [fit] **Machine Learning**
 ## [fit] Computers improve their performance based on data results
 
+![original](https://cdn.technologyreview.com/i/images/163881.jpg?sw=1040&cx=375&cy=0&cw=2258&ch=2135)
+
+[.background-color: #000000]
+
 ---
 
 # [fit] **Deep Learning**
 ## [fit] Computers adapt to new data and learn from experience
+
+![autoplay mute filtered](https://www.youtube.com/watch?v=aircAruvnKk&t=120s)
 
 ---
 
