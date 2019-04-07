@@ -1,10 +1,18 @@
 autoscale: false
-slidenumbers: true
+slidenumbers: true, text-align(center)
 footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 text: #FFFFFF
 background-color: #004712
 header: text-scale(1.0), line-height(0.9), #FFFFFF
 list: bullet-character(•)
+
+
+<!--
+AI and Emerging Technologies Presentation
+Pine Crest School
+Innovation Institute 2019
+For use with DeckSet 2.0
+-->
 
 # [fit] AI and Emerging Technologies
 # [fit] in the Middle School
@@ -16,7 +24,7 @@ list: bullet-character(•)
 
 ---
 
-# Sean Tibor
+# **Sean Tibor**
 
 - 6th & 8th Grade Computer Science Teacher
 - 1st Year Teaching
@@ -29,7 +37,7 @@ list: bullet-character(•)
 
 ---
 
-# Pedro Uribe
+# **Pedro Uribe**
 
 - Computer Science and Technology Specialist
 - Boca Raton Campus
@@ -113,7 +121,7 @@ list: bullet-character(•)
 
 ---
 
-![fit](https://youtu.be/qv6UVOQ0F44)
+![](https://youtu.be/qv6UVOQ0F44)
 
 ---
 
@@ -143,7 +151,7 @@ list: bullet-character(•)
 
 ---
 
-## AI Compute Increased 300,000x in Six Years
+# AI Compute Increased 300,000x in Six Years
 
 ![inline](photos/ai_compute.png)
 
@@ -191,7 +199,9 @@ list: bullet-character(•)
 
 ---
 
-# Teaching AI
+# [fit] Teaching AI
+
+![](photos/tessie_pitop.jpg)
 
 ---
 
@@ -224,11 +234,13 @@ list: bullet-character(•)
 
 # Activities
 
-- Train Google Quick Draw
-- Learn about Tensor Networks
-- Make GAN Art
-- Write a Chat Bot
-- Create an Alexa Skill
+- Train Google Quick Draw and race the clock
+- Smallest Viable [Tensor Network](https://playground.tensorflow.org)
+- Make [GAN Art](http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4)
+- Write a [Chat Bot](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
+- Create an [Alexa Skill](https://developer.amazon.com/alexa-skills-kit/guides)
+
+^ You can download the quick draw dataset
 
 ![right](photos/class artwork.jpg)
 
@@ -238,9 +250,13 @@ list: bullet-character(•)
 
 Middle school students love games.
 
-- 20 Questions vs. AI
-- Blackjack Opponent
-- Gun, Gun, Shoot (seeking alternative game format)
+- Play 20 Questions vs. AI
+- DIY Blackjack Opponent
+- Make AI that plays Gun, Gun, Shoot
+
+![](photos/dimitri_catherine_drone.jpg)
+
+[.background-color: #000000]
 
 ---
 
@@ -250,7 +266,11 @@ Middle school students love games.
 - Cozmo by Anki (Recommended)
 - Cue by Wonder Workshop
 
+^ Look for robots that can leverage computer vision, perception, or machine learning/deep learning
+
 ![](photos/cozmo_students.jpg)
+
+[.background-color: #000000]
 
 ---
 
@@ -262,6 +282,10 @@ Middle school students love games.
 - [Image Kernels Explained Visually](http://setosa.io/ev/image-kernels/)
 - [GAN Paint](http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4)
 - [Cool Applications of GAN](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900_)
+
+![](photos/cozmo_robots.jpg)
+
+[.background-color: #000000]
 
 ---
 
@@ -279,7 +303,7 @@ Middle school students love games.
 - Vector
 - Cue
 
-![](photos/max_jax_cozmo.jpg)
+![right](photos/max_jax_cozmo.jpg)
 
 --- 
 
@@ -289,7 +313,7 @@ Middle school students love games.
 - Oculus Rift
 - Google Expeditions
 
-![](photos/nico_vr.jpg)
+![right](photos/nico_vr.jpg)
 
 ---
 
