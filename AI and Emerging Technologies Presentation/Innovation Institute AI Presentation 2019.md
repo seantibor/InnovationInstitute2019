@@ -307,6 +307,8 @@ Middle school students love games.
 
 ## [fit] Thank You
 
+[GitHub Slides and Resources](https://github.com/seantibor/InnovationInstitute2019)
+
 ---
 
 # [fit] Other Resources
