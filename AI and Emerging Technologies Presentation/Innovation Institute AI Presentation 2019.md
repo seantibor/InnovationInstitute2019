@@ -6,7 +6,8 @@ background-color: #004712
 header: text-scale(1.0), line-height(0.9), #FFFFFF
 list: bullet-character(•)
 
-# AI and Emerging Technologies in the Middle School
+# [fit] AI and Emerging Technologies
+# [fit] in the Middle School
 ## Sean Tibor and Pedro Uribe
 
 ![](photos/sasha_samantha_robots.jpg)
@@ -39,7 +40,7 @@ list: bullet-character(•)
 
 ---
 
-# History of AI
+# [fit] History of AI
 
 ![](https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2018%2F06%2Farthur-samuel_checkers_ibm-7090_c1962_horizontal-e1529684853944.jpeg&w=2200&q=70)
 
@@ -53,7 +54,9 @@ list: bullet-character(•)
 
 ---
 
-# AI, Machine Learning, and Deep Learning?
+# [fit] Artificial Intelligence?
+# [fit] Machine Learning?
+# [fit] Deep Learning?
 
 ---
 
@@ -95,7 +98,7 @@ list: bullet-character(•)
 
 ---
 
-# AI Family Tree
+# [fit] AI Family Tree
 
 ---
 
@@ -106,7 +109,7 @@ list: bullet-character(•)
 
 ---
 
-# MarI/O
+# [fit] MarI/O
 
 ---
 
@@ -114,7 +117,7 @@ list: bullet-character(•)
 
 ---
 
-# The World
+# [fit] The World
 ### (+5 Years)
 
 ![](photos/tesla.jpeg)
