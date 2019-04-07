@@ -1,10 +1,12 @@
 autoscale: false
 slidenumbers: true
 footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
+text: #FFFFFF
+background-color: #004712
+header: text-scale(1.1)
 
-
-## AI and Emerging Technologies in the Middle School
-### Sean Tibor and Pedro Uribe
+# AI and Emerging Technologies in the Middle School
+## Sean Tibor and Pedro Uribe
 
 ![](photos/sasha_samantha_robots.jpg)
 
@@ -14,18 +16,22 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 # Sean Tibor
 
-* 6th & 8th Grade Computer Science Teacher
-* 1st Year Teaching
-* Transfer from IT and Digital Marketing Career
-* Co-host of [Teaching Python Podcast](https://www.teachingpython.fm)
+- 6th & 8th Grade Computer Science Teacher
+- 1st Year Teaching
+- Transfer from IT and Digital Marketing Career
+- Co-host of [Teaching Python Podcast](https://www.teachingpython.fm)
 
-[@smtibor](https://twitter.com/smtibor)
+[@smtibor](https://twitter.com/smtibor) on Twitter
 
 ![right](photos/sean_tibor.jpg)
 
 ---
 
 # Pedro Uribe
+
+- Computer Science and Technology Specialist
+
+![right](photos/pedro.jpg)
 
 ---
 
@@ -47,11 +53,32 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ---
 
-![fit](https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png)
+# Subsets of Artificial Intelligence
+
+![inline](https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png)
 
 [.hide-footer]
 [.background-color: #FFFFFF]
 [.slidenumber-style: #004712, alignment(right)]
+[.header: #004712]
+
+---
+
+## Artificial Intelligence
+
+Computers that perform tasks in ways that resemble humans
+
+---
+
+## Machine Learning
+
+Computers that improve their performance based on data results
+
+---
+
+## Deep Learning
+
+Computers that adapt to new data and learn from experience
 
 ---
 
@@ -74,7 +101,7 @@ footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 
 ^ Will today's kindergarten students learn to drive in 2030?
 
-^How will our students compete with AI job candidates?
+^ How will our students compete with AI job candidates?
 
 ^ Will there be any profession without AI enhancement tools?
 
@@ -203,11 +230,6 @@ Middle school students love games.
 ---
 
 # Cross-Disciplinary AI Collaboration
-
----
-
-## Robotics
-
 
 
 ---
