@@ -25,7 +25,8 @@ For use with DeckSet 2.0
 
 # **Sean Tibor**
 
-- 6th & 8th Grade Computer Science Teacher
+- Computer Science and Technology Specialist
+- Fort Lauderdale Middle School
 - 1st Year Teaching
 - Transfer from IT and Digital Marketing Career
 - Co-host of [Teaching Python](https://www.teachingpython.fm)
@@ -39,9 +40,9 @@ For use with DeckSet 2.0
 # **Pedro Uribe**
 
 - Computer Science and Technology Specialist
-- Boca Raton Campus
+- Boca Raton Middle School
 - Code.org Facilitator
-- **Not** the FBI's Most Wanted Pedro Uribe from Unsolved Mysteries, Season 2, Episode 18
+- **Not** the FBI's Most Wanted Pedro Uribe from *Unsolved Mysteries*, Season 2, Episode 18
 
 ![right](photos/pedro.jpg)
 
@@ -210,6 +211,8 @@ For use with DeckSet 2.0
 
 ![](photos/tessie_pitop.jpg)
 
+[.background-color: #000000]
+
 ---
 
 # Middle School Considerations
@@ -225,6 +228,8 @@ For use with DeckSet 2.0
 # [fit] Our Approach
 
 ![](photos/joseph_pitop.jpg)
+
+[.background-color: #000000]
 
 ---
 
