@@ -20,7 +20,7 @@ list: bullet-character(•)
 - 6th & 8th Grade Computer Science Teacher
 - 1st Year Teaching
 - Transfer from IT and Digital Marketing Career
-- Co-host of [Teaching Python Podcast](https://www.teachingpython.fm)
+- Co-host of [Teaching Python](https://www.teachingpython.fm)
 
 [@smtibor](https://twitter.com/smtibor) on Twitter
 
