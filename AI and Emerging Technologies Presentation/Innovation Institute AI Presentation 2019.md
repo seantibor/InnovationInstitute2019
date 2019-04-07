@@ -166,19 +166,9 @@ list: bullet-character(•)
 
 ---
 
-# Tools
+# Our Approach
 
 ![](photos/joseph_pitop.jpg)
-
----
-
-## AI Robots
-
-- Vector by Anki (Recommended)
-- Cozmo by Anki (Recommended)
-- Cue by Wonder Workshop
-
-![](photos/cozmo_students.jpg)
 
 ---
 
@@ -190,6 +180,16 @@ list: bullet-character(•)
 - TensorFlow Playground
 
 ![right](photos/quickdraw_data.png)
+
+---
+
+# MarI/O
+
+---
+
+![fit](https://youtu.be/qv6UVOQ0F44)
+
+--- 
 
 ---
 
@@ -211,7 +211,17 @@ Middle school students love games.
 
 - 20 Questions vs. AI
 - Blackjack Opponent
-- Gun, Gun, Shoot (seeking alternative format)
+- Gun, Gun, Shoot (seeking alternative game format)
+
+---
+
+## AI Robots
+
+- Vector by Anki (Recommended)
+- Cozmo by Anki (Recommended)
+- Cue by Wonder Workshop
+
+![](photos/cozmo_students.jpg)
 
 ---
 
@@ -237,17 +247,25 @@ Middle school students love games.
 
 # Other Resources
 
+---
+
 ## Middle School Robots
 
 - Cozmo
 - Vector
 - Cue
 
+![](photos/max_jax_cozmo.jpg)
+
+--- 
+
 ## Virtual Reality Tools
 
 - HTC Vive Pro
 - Oculus Rift
 - Google Expeditions
+
+![](photos/nico_vr.jpg)
 
 ---
 
