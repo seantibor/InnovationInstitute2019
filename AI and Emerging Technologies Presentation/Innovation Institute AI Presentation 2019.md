@@ -68,13 +68,43 @@ list: bullet-character(•)
 
 ---
 
-**Artificial Intelligence** - Computers perform tasks in ways that resemble humans
+# [fit] **Artificial Intelligence**
+## [fit] Computers perform tasks in ways that resemble humans
 
-**Machine Learning** - Computers improve their performance based on data results
+![](https://upload.wikimedia.org/wikipedia/commons/0/0b/Medeia_and_Talus.png)
 
-**Deep Learning** - Computers adapt to new data and learn from experience
+^ Talos, the ancient greek automaton that circled the isle of Crete to protect it from pirates and invaders
 
-[.autoscale: true]
+[.background-color: #000000]
+
+---
+
+# [fit] **Machine Learning**
+## [fit] Computers improve their performance based on data results
+
+---
+
+# [fit] **Deep Learning**
+## [fit] Computers adapt to new data and learn from experience
+
+---
+
+# AI Family Tree
+
+---
+
+![fit](photos/ai-branches.png)
+
+[.background-color: #FFFFFF]
+[.slidenumber-style: #004712, alignment(right)]
+
+---
+
+# MarI/O
+
+---
+
+![fit](https://youtu.be/qv6UVOQ0F44)
 
 ---
 
@@ -180,16 +210,6 @@ list: bullet-character(•)
 - TensorFlow Playground
 
 ![right](photos/quickdraw_data.png)
-
----
-
-# MarI/O
-
----
-
-![fit](https://youtu.be/qv6UVOQ0F44)
-
---- 
 
 ---
 
