@@ -1,10 +1,10 @@
 autoscale: false
-slidenumbers: true, text-align(center)
+slidenumbers: true
 footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 text: #FFFFFF
 background-color: #004712
 header: text-scale(1.0), line-height(0.9), #FFFFFF
-list: bullet-character(•)
+list: bullet-character(•), line-height(0.6)
 
 
 <!--
@@ -14,9 +14,8 @@ Innovation Institute 2019
 For use with DeckSet 2.0
 -->
 
-# [fit] AI and Emerging Technologies
-# [fit] in the Middle School
-## Sean Tibor and Pedro Uribe
+# [fit] **AI and Emerging Technologies<br>in the Middle School**
+### Sean Tibor and Pedro Uribe
 
 ![](photos/sasha_samantha_robots.jpg)
 
@@ -42,86 +41,9 @@ For use with DeckSet 2.0
 - Computer Science and Technology Specialist
 - Boca Raton Campus
 - Code.org Facilitator
-- Not the FBI's Most Wanted Pedro Uribe from Unsolved Mysteries, Season 2, Episode 18
+- **Not** the FBI's Most Wanted Pedro Uribe from Unsolved Mysteries, Season 2, Episode 18
 
 ![right](photos/pedro.jpg)
-
----
-
-# [fit] History of AI
-
-![](https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2018%2F06%2Farthur-samuel_checkers_ibm-7090_c1962_horizontal-e1529684853944.jpeg&w=2200&q=70)
-
-^Albert Samuel plays checkers against an IBM 701
-
-^AI is not a new idea. The first AI research happened back in the early 20th century with neural networks
-
-^Recent advances in computing power and neural network designs have lead to an explosion of interest in machine learning and deep learning
-
-[.background-color: #000000]
-
----
-
-# [fit] Artificial Intelligence?
-# [fit] Machine Learning?
-# [fit] Deep Learning?
-
----
-
-# Subsets of Artificial Intelligence
-
-![inline](https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png)
-
-[.hide-footer]
-[.background-color: #FFFFFF]
-[.slidenumber-style: #004712, alignment(right)]
-[.header: #004712]
-
----
-
-# [fit] **Artificial Intelligence**
-## [fit] Computers perform tasks in ways that resemble humans
-
-![](https://upload.wikimedia.org/wikipedia/commons/0/0b/Medeia_and_Talus.png)
-
-^ Talos, the ancient greek automaton that circled the isle of Crete to protect it from pirates and invaders
-
-[.background-color: #000000]
-
----
-
-# [fit] **Machine Learning**
-## [fit] Computers improve their performance based on data results
-
-![original](https://cdn.technologyreview.com/i/images/163881.jpg?sw=1040&cx=375&cy=0&cw=2258&ch=2135)
-
-[.background-color: #000000]
-
----
-
-# [fit] **Deep Learning**
-## [fit] Computers adapt to new data and learn from experience
-
-![autoplay mute filtered](https://www.youtube.com/watch?v=aircAruvnKk&t=120s)
-
----
-
-# [fit] AI Family Tree
-
----
-
-![fit](photos/ai-branches.png)
-
-[.background-color: #FFFFFF]
-[.slidenumber-style: #004712, alignment(right)]
-
----
-
-# [fit] MarI/O
-
----
-
-![](https://youtu.be/qv6UVOQ0F44)
 
 ---
 
@@ -199,6 +121,91 @@ For use with DeckSet 2.0
 
 ---
 
+# [fit] How Do We Prepare<br> Students For A World<br> That Doesn't Exist Yet?
+
+^ We're going to focus on just Artificial Intelligence
+
+---
+
+# [fit] A *Very* Brief<br> History of AI
+
+![](https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2018%2F06%2Farthur-samuel_checkers_ibm-7090_c1962_horizontal-e1529684853944.jpeg&w=2200&q=70)
+
+^Albert Samuel plays checkers against an IBM 701
+
+^AI is not a new idea. The first AI research happened back in the early 20th century with neural networks
+
+^Recent advances in computing power and neural network designs have lead to an explosion of interest in machine learning and deep learning
+
+[.background-color: #000000]
+
+---
+
+# [fit] Artificial Intelligence?
+# [fit] Machine Learning?
+# [fit] Deep Learning?
+
+^ What are all of these terms? Are they the same?
+
+---
+
+# Subsets of Artificial Intelligence
+
+![inline](https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png)
+
+[.hide-footer]
+[.background-color: #FFFFFF]
+[.slidenumber-style: #004712, alignment(right)]
+[.header: #004712]
+
+---
+
+# [fit] **Artificial Intelligence**
+## [fit] Computers perform tasks in ways that resemble humans
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/0b/Medeia_and_Talus.png)
+
+^ Talos, the ancient greek automaton that circled the isle of Crete to protect it from pirates and invaders
+
+[.background-color: #000000]
+
+---
+
+# [fit] **Machine Learning**
+## [fit] Computers improve their performance based on data results
+
+![original](https://cdn.technologyreview.com/i/images/163881.jpg?sw=1040&cx=375&cy=0&cw=2258&ch=2135)
+
+[.background-color: #000000]
+
+---
+
+# [fit] **Deep Learning**
+## [fit] Computers adapt to new data and learn from experience
+
+![autoplay mute filtered](https://www.youtube.com/watch?v=aircAruvnKk&t=120s)
+
+---
+
+# [fit] AI Family Tree
+
+---
+
+![fit](photos/ai-branches.png)
+
+[.background-color: #FFFFFF]
+[.slidenumber-style: #004712, alignment(right)]
+
+---
+
+# [fit] MarI/O
+
+---
+
+![](https://youtu.be/qv6UVOQ0F44)
+
+---
+
 # [fit] Teaching AI
 
 ![](photos/tessie_pitop.jpg)
@@ -234,7 +241,7 @@ For use with DeckSet 2.0
 
 # Activities
 
-- Train Google Quick Draw and race the clock
+- Train [Google Quick Draw](https://quickdraw.withgoogle.com/) and race the clock
 - Smallest Viable [Tensor Network](https://playground.tensorflow.org)
 - Make [GAN Art](http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4)
 - Write a [Chat Bot](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
@@ -289,11 +296,15 @@ Middle school students love games.
 
 ---
 
-## Q&A
+# [fit] Q&A
 
 ---
 
-# Other Resources
+## [fit] Thank You
+
+---
+
+# [fit] Other Resources
 
 ---
 
@@ -314,7 +325,3 @@ Middle school students love games.
 - Google Expeditions
 
 ![right](photos/nico_vr.jpg)
-
----
-
-## Thank You
