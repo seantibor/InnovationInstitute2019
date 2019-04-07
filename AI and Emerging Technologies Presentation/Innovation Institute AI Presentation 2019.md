@@ -3,7 +3,8 @@ slidenumbers: true
 footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 text: #FFFFFF
 background-color: #004712
-header: text-scale(1.1)
+header: text-scale(1.0), line-height(0.9), #FFFFFF
+list: bullet-character(•)
 
 # AI and Emerging Technologies in the Middle School
 ## Sean Tibor and Pedro Uribe
@@ -30,6 +31,9 @@ header: text-scale(1.1)
 # Pedro Uribe
 
 - Computer Science and Technology Specialist
+- Boca Raton Campus
+- Code.org Facilitator
+- Not the FBI's Most Wanted Pedro Uribe from Unsolved Mysteries, Season 2, Episode 18
 
 ![right](photos/pedro.jpg)
 
@@ -64,25 +68,18 @@ header: text-scale(1.1)
 
 ---
 
-## Artificial Intelligence
+**Artificial Intelligence** - Computers perform tasks in ways that resemble humans
 
-Computers that perform tasks in ways that resemble humans
+**Machine Learning** - Computers improve their performance based on data results
 
----
+**Deep Learning** - Computers adapt to new data and learn from experience
 
-## Machine Learning
-
-Computers that improve their performance based on data results
+[.autoscale: true]
 
 ---
 
-## Deep Learning
-
-Computers that adapt to new data and learn from experience
-
----
-
-# [fit] The World in +5 Years
+# The World
+### (+5 Years)
 
 ![](photos/tesla.jpeg)
 
