@@ -205,7 +205,7 @@ list: bullet-character(•)
 
 ---
 
-# Our Approach
+# [fit] Our Approach
 
 ![](photos/joseph_pitop.jpg)
 
@@ -262,11 +262,6 @@ Middle school students love games.
 - [Image Kernels Explained Visually](http://setosa.io/ev/image-kernels/)
 - [GAN Paint](http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4)
 - [Cool Applications of GAN](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900_)
-
----
-
-# Cross-Disciplinary AI Collaboration
-
 
 ---
 
