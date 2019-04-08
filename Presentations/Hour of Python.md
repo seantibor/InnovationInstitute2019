@@ -3,7 +3,7 @@ slidenumbers: true
 footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
 text: #FFFFFF
 background-color: #004712
-header: text-scale(1.0), line-height(0.9), #FFFFFF
+header: text-scale(1.0), line-height(0.9), #FFFFFF, alignment(left)
 list: bullet-character(•), line-height(0.6)
 
 
@@ -57,13 +57,13 @@ sean_fun_facts = {'origin': 'Anchorage, Alaska',
 
 ---
 
+Co-hosts of the [*Teaching Python*](https://www.teachingpython.fm) podcast
+(for good-looking and talented people like you)
+
 ```python
 while shameless_plug:
     audience.listen_to({'podcast': 'www.teachingpython.fm'})
 ```
-
-Co-hosts of the [*Teaching Python*](https://www.teachingpython.fm) podcast
-(for good-looking and talented people like you)
 
 ![right fit](photos/teaching_python.jpg)
 
@@ -96,3 +96,28 @@ Co-hosts of the [*Teaching Python*](https://www.teachingpython.fm) podcast
 ![right](photos/nate_dean_pitop.jpg)
 
 ---
+
+# Today's Development Environments
+
+- Repl.it (www.repl.it)
+- Mu Editor (codewith.mu)
+- Thonny (thonny.org)
+- IDLE (Python.org)
+
+---
+# Or use your own
+
+## Your choice
+    - VS Code
+    - PyCharm
+    - Sublime Editor
+    - Atom
+    - Vi/Vim???
+
+---
+
+# Hello World
+
+```python
+print('Hello World')
+```
