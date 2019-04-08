@@ -24,21 +24,36 @@ For use with DeckSet 2.0
 
 ---
 
-# Kelly Schuster-Paredes
+# **Kelly Schuster-Paredes**
+### Fort Lauderdale Middle School 
+### Computer Science and Education Technology Specialist
+
 [@KellyPared](https://twitter.com/KellyPared) on Twitter
 
-Fun fact: Grew up in Sebastian, Florida, taught in Peru.
+```python
+kelly_fun_facts = {'origin': 'Sebastian, Florida',
+                  'countries_taught_in': ['Peru', 'USA']}
+```
 
 ![left](photos/kelly.jpg)
 
+[.header: alignment(left)]
+
 ---
 
-# Sean Tibor
+# **Sean Tibor**
+### Fort Lauderdale Middle School 
+### Computer Science and Education Technology Specialist
+
 [@smtibor](https://twitter.com/smtibor) on Twitter
 
-Fun fact: From Anchorage, Alaska, can sew.
-
+```python
+sean_fun_facts = {'origin': 'Anchorage, Alaska',
+                  'can_sew': True}
+```
 ![right](photos/Sean Hi Res Photo.jpg)
+
+[.header: alignment(left)]
 
 ---
 
@@ -54,16 +69,18 @@ Co-hosts of the [*Teaching Python*](https://www.teachingpython.fm) podcast
 
 ---
 
-# 1 Hour for Python?
+# [fit] 1 Hour for Python?
 ## Let's get to it!
 
 ---
 
-# What is Python?
+# [fit] What is Python?
 
 ^ Fastest growing programming language
 ^ "Full Spectrum" Language
 ^ Emphasizes readability
+
+![](photos/sasha_samantha_robots.jpg)
 
 --- 
 
@@ -76,6 +93,6 @@ Co-hosts of the [*Teaching Python*](https://www.teachingpython.fm) podcast
 - Web Browser Automation
 - NeoPixels
 
-![](photos/nate_dean_pitop.jpg)
+![right](photos/nate_dean_pitop.jpg)
 
 ---
