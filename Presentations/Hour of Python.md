@@ -108,7 +108,7 @@ while shameless_plug:
 # Or use your own
 
 ## Your choice
-    - VS Code
+    - Visual Studio Code
     - PyCharm
     - Sublime Editor
     - Atom
