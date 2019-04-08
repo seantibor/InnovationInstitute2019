@@ -47,7 +47,35 @@ while shameless_plug:
     audience.listen_to({'podcast': 'www.teachingpython.fm'})
 ```
 
-Co-hosts of the *Teaching Python* podcast
+Co-hosts of the [*Teaching Python*](https://www.teachingpython.fm) podcast
 (for good-looking and talented people like you)
 
-![right](photos/teaching_python.jpg)
+![right fit](photos/teaching_python.jpg)
+
+---
+
+# 1 Hour for Python?
+## Let's get to it!
+
+---
+
+# What is Python?
+
+^ Fastest growing programming language
+^ "Full Spectrum" Language
+^ Emphasizes readability
+
+--- 
+
+# Student Python Projects
+
+- Pi-Tops
+- Smartphone Drop Sensors
+- Interactive Fiction
+- Embroidery
+- Web Browser Automation
+- NeoPixels
+
+![](photos/nate_dean_pitop.jpg)
+
+---
