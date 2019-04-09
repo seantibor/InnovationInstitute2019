@@ -1,0 +1,3 @@
+[submodule "code/mu_code_examples"]
+	path = code/mu_code_examples
+	url = https://github.com/seantibor/mu_code_examples
