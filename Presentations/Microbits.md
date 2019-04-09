@@ -95,6 +95,17 @@ while shameless_plug:
 - MicroPython (Kelly)
 - C (Good Luck & Godspeed!)
 
+Sean will float around.
+
+---
+
+# MakeCode Hello World
+
+![inline](photos/makecode_hello_world.png)
+
+[.background-color: #FFFFFF]
+[.header: #004712]
+
 ---
 
 # MicroPython Hello World
@@ -104,6 +115,23 @@ from microbit import *
 
 display.scroll('Hello World')
 ```
+
+---
+
+# Beginner Micro:bit Challenges
+
+- Push a button, show an image
+- Hook up a Pimoroni Speaker
+- Knight Rider LEDs
+
+---
+
+# Intermediate Micro:bit Challenges
+
+- Shake the Micro:bit, play a song
+- Plot light level data with Mu
+- Make a Rock, Paper, Scissors Game
+- Micro:bit Fireflies
 
 ---
 
@@ -184,10 +212,17 @@ Line 6: turning pin0 off (allowing it to blink)
 
 # Next Steps
 
-- #100DaysOfCode Challenge (Get better at Python and problem solving)
+- Get some clips and sensors
+- Make a piano with the accessories
+- Build a robot or R/C car
 - Follow us on Twitter
-- Try some Google Colab!
 - Listen to our Podcast ([teachingpython.fm](https://www.teachingpython.fm))
+
+---
+
+# Clone our [GitHub Repository](https://github.com/seantibor/InnovationInstitute2019)
+
+[https://github.com/seantibor/InnovationInstitute2019](https://github.com/seantibor/InnovationInstitute2019)
 
 ---
 

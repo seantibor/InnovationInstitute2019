@@ -219,4 +219,10 @@ Line 6: turning pin0 off (allowing it to blink)
 
 ---
 
+# Clone our [GitHub Repository](https://github.com/seantibor/InnovationInstitute2019)
+
+[https://github.com/seantibor/InnovationInstitute2019](https://github.com/seantibor/InnovationInstitute2019)
+
+---
+
 # Thank You
