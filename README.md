@@ -8,6 +8,7 @@ Slides and Resources for the [2019 Pine Crest Innovation Institute](https://2019
 [Markdown Presentation](Presentations/Innovation%20Institute%20AI%20Presentation%202019.md) for [Deckset](https://www.deckset.com)
 
 ## Hour of Python
+[Sched Link to Session](https://sched.co/L53w)
 
 ## Micro:bit Workshop
 [Sched Link to Session](https://sched.co/L50J)
@@ -26,3 +27,5 @@ This genetics project was completed with the 6th grade science teachers to learn
 
 - [GitHub Repo](https://github.com/seantibor/uorganisms)
 - [Project Video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6519955510001700865)
+
+## Dragster Data
