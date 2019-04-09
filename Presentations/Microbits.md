@@ -18,7 +18,7 @@ For use with DeckSet 2.0
 ## Kelly Schuster-Paredes ([@KellyPared](https://twitter.com/KellyPared))
 ## Sean Tibor ([@smtibor](https://twitter.com/smtibor))
 
-![](photos/dilnaam_stress_mask.jpg)
+![](https://microbit.org/assets/posts/2016-11-21-TWSU-lego-challenge.jpg)
 
 [.background-color: #000000]
 
@@ -82,56 +82,28 @@ while shameless_plug:
 ^ "Full Spectrum" Language
 ^ Emphasizes readability
 
-![](photos/sasha_samantha_robots.jpg)
+![original inline](https://microbit.org/images/microbit-hardware-access.jpg)
+
+[.header: #004712]
+[.background-color: #FFFFFF]
 
 --- 
 
-# Student Python Projects
+# Micro:bit Coding Languages & Coaches
 
-- Pi-Tops
-- Smartphone Drop Sensors
-- Interactive Fiction
-- Embroidery
-- Web Browser Automation
-- NeoPixels
-
-![right](photos/nate_dean_pitop.jpg)
+- Make:code (Pedro)
+- MicroPython (Kelly)
+- C (Good Luck & Godspeed!)
 
 ---
 
-# Today's Development Environments
-
-- Repl.it (www.repl.it)
-- Mu Editor (codewith.mu)
-- Thonny (thonny.org)
-- IDLE (Python.org)
-
-(Or use your own)
-
-^ If you don't have Mu or Thonny installed, just go with Repl.it
-
----
-
-# Hello World
+# MicroPython Hello World
 
 ```python
-print('Hello World')
+from microbit import *
+
+display.scroll('Hello World')
 ```
-
----
-
-# Beginner Challenges
-
-- Draw a square using Turtle
-- Find the sum of all even numbers from 2 to 143,568 (inclusive)
-- Connect to a Micro:bit and light up the display
-
----
-
-# Intermediate Challenges
-- Create a function that creates n-pointed stars using [Turtle](https://docs.python.org/3.7/library/turtle.html?highlight=turtle)
-- Use [Requests](http://docs.python-requests.org/en/master/) to get the current temperature and humidity for Boca Raton
-- Plot accelerometer data from the microbit using [Mu](https://codewith.mu)
 
 ---
 
