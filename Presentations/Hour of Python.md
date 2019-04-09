@@ -32,7 +32,7 @@ For use with DeckSet 2.0
 
 ```python
 kelly_fun_facts = {'origin': 'Sebastian, Florida',
-                  'countries_taught_in': ['Peru', 'USA']}
+                  'countries_taught_in': ['Peru', 'USA', 'UK']}
 ```
 
 ![left](photos/kelly.jpg)
@@ -62,7 +62,7 @@ Co-hosts of the [*Teaching Python*](https://www.teachingpython.fm) podcast
 
 ```python
 while shameless_plug:
-    audience.listen_to({'podcast': 'www.teachingpython.fm'})
+    audience.listen_to(podcast='www.teachingpython.fm')
 ```
 
 ![right fit](photos/teaching_python.jpg)
@@ -104,15 +104,9 @@ while shameless_plug:
 - Thonny (thonny.org)
 - IDLE (Python.org)
 
----
-# Or use your own
+(Or use your own)
 
-## Your choice
-    - Visual Studio Code
-    - PyCharm
-    - Sublime Editor
-    - Atom
-    - Vi/Vim???
+^ If you don't have Mu or Thonny installed, just go with Repl.it
 
 ---
 
@@ -121,3 +115,15 @@ while shameless_plug:
 ```python
 print('Hello World')
 ```
+
+---
+
+# Challenges
+
+---
+
+# Wrap-Up
+
+---
+
+# Thank You
