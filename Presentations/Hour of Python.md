@@ -69,8 +69,10 @@ while shameless_plug:
 
 ---
 
-# [fit] 1 Hour for Python?
+# [fit] Only 1 Hour for Python?
 ## Let's get to it!
+
+[.header: alignment(center)]
 
 ---
 
@@ -130,6 +132,10 @@ print('Hello World')
 - Create a function that creates n-pointed stars using [Turtle](https://docs.python.org/3.7/library/turtle.html?highlight=turtle)
 - Use [Requests](http://docs.python-requests.org/en/master/) to get the current temperature and humidity for Boca Raton
 - Plot accelerometer data from the microbit using [Mu](https://codewith.mu)
+
+---
+
+# [fit] Get Going!
 
 ---
 
