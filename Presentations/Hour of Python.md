@@ -1,6 +1,6 @@
 autoscale: false
 slidenumbers: true
-footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)
+footer: ![inline 50%](photos/Innovation_Institute_white_transparent.png)<br>[Python Cheat Sheet - http://bit.ly/ParedesPython](http://bit.ly/ParedesPython)
 text: #FFFFFF
 background-color: #004712
 header: text-scale(1.0), line-height(0.9), #FFFFFF, alignment(left)
@@ -118,11 +118,26 @@ print('Hello World')
 
 ---
 
-# Challenges
+# Beginner Challenges
+
+- Draw a square using Turtle
+- Find the sum of all even numbers from 2 to 143,568 (inclusive)
+- Connect to a Micro:bit and light up the display
 
 ---
 
-# Wrap-Up
+# Intermediate Challenges
+- Create a function that creates n-pointed stars using [Turtle](https://docs.python.org/3.7/library/turtle.html?highlight=turtle)
+- Use [Requests](http://docs.python-requests.org/en/master/) to get the current temperature and humidity for Boca Raton
+- Plot accelerometer data from the microbit using [Mu](https://codewith.mu)
+
+---
+
+# Next Steps
+
+- #100DaysOfCode Challenge (Get better at Python and problem solving)
+- Follow us on Twitter
+- Try some Google Colab!
 
 ---
 

@@ -3,9 +3,9 @@ Slides and Resources for the [2019 Pine Crest Innovation Institute](https://2019
 
 # Presentations and Talks
 ## AI and Emerging Technologies in the Middle School
-[Sched Link to Session](https://sched.co/L4vH)
-[PDF Version of Presentation](Presentations/slides/Innovation%20Institute%20AI%20Presentation%202019.pdf)
-[Markdown Presentation](Presentations/Innovation%20Institute%20AI%20Presentation%202019.md) for [Deckset](https://www.deckset.com)
+- [Sched Link to Session](https://sched.co/L4vH)
+- [PDF Version of Presentation](Presentations/slides/Innovation%20Institute%20AI%20Presentation%202019.pdf)
+- [Markdown Presentation](Presentations/Innovation%20Institute%20AI%20Presentation%202019.md) for [Deckset](https://www.deckset.com)
 
 ## Hour of Python
 [Sched Link to Session](https://sched.co/L53w)
