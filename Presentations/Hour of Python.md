@@ -135,6 +135,77 @@ print('Hello World')
 
 ---
 
+# How to Flash an External LED on a Microbit
+## By Olivia M.
+
+---
+
+First, gather the materials. You will need:
+
+- banana clip to alligator clip wire (x2)
+- external LED
+- Microbit
+- Micro USB cord
+
+![](photos/external_led/image5.png)
+![](photos/external_led/image4.png)
+![](photos/external_led/image2.png)
+![](photos/external_led/image1.png)
+
+
+[.background-color: #000000]
+
+---
+
+# Instructions
+
+---
+
+## Code:
+First, open Mu Editor and start a new code.  Then, type this code:
+
+```python
+from microbit import *
+
+while True:
+    pin0.write_digital(1)
+    sleep(500)
+    pin0.write_digital(0)
+    sleep(500)
+```
+
+---
+
+Line 1: importing microbit library into the code
+Line 3: starting a forever loop (making the code under run forever)
+Line 4: pin0 (0 hole on microbit) blinking for 1 second
+Line 5/7: stopping pin0 for 500 milliseconds
+Line 6: turning pin0 off (allowing it to blink)
+
+---
+
+## Building the Microbit Part:
+
+1. Plug in micro USB cord into the USB in your computer
+1. Plug the Micro USB end into the Microbit
+1. Plug the banana clip ends of the alligator to banana clip cords into the 0 and GND holes in the microbit
+1. Attach the alligator ends of the alligator to banana clip cords to the 2 metal ends of the external LED (one alligator clip on each wire end) 
+1. Run the code (make sure Mu is on Microbit mode)
+
+---
+
+## Congratulations, you have now made a flashing external light using a Microbit and Python 3!
+
+---
+
+## If you need more help:
+- [https://www.youtube.com/watch?v=0P7P4DpVlZw](https://www.youtube.com/watch?v=0P7P4DpVlZw)
+
+- [https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all](https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all)
+
+
+---
+
 # [fit] Get Going!
 
 ---
@@ -144,6 +215,7 @@ print('Hello World')
 - #100DaysOfCode Challenge (Get better at Python and problem solving)
 - Follow us on Twitter
 - Try some Google Colab!
+- Listen to our Podcast ([teachingpython.fm](https://www.teachingpython.fm))
 
 ---
 
